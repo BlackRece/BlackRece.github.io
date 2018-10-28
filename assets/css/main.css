@@ -80,7 +80,7 @@ input, select, textarea {
 
     .bg {
         background-color: #000000;
-        opacity: 0.7;
+        opacity: 0.9;
         filter: alpha(opacity = 75);
         border-radius: 0.75em;
     }
@@ -1806,26 +1806,6 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 
-            .image.featured img.portrait {
-                margin-top: -25%;
-                margin-left: 10%;
-                width: 20%;
-                height: 20%;
-                border-radius: 100%;
-                border-width: 6px;
-                border-color: #000000;
-                border-style: solid;
-            }
-
-            .image.featured .portrait-clear {
-                width: 100%;
-                margin: 0 0 2em 0;
-            }
-                .image.left {
-			float: left;
-			margin: 0 2em 2em 0;
-		}
-
 		.image.centered {
 			display: block;
 			margin: 0 0 2em 0;
@@ -2132,14 +2112,16 @@ input, select, textarea {
 		margin: 1.75em 1.5em 1.5em 1.5em;
 		min-height: 48px;
 		cursor: default;
+		text-align: left;
 	}
 
 		#logo h1 {
 			position: relative;
 			color: #fff;
 			font-weight: 600;
-			font-size: 1em;
+			font-size: 0.9em;
 			line-height: 1em;
+			text-align: right;
 		}
 
 		#logo p {
@@ -2149,6 +2131,7 @@ input, select, textarea {
 			color: rgba(255, 255, 255, 0.5);
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
+			text-align: right;
 		}
 
 		#logo .image {
@@ -2297,13 +2280,38 @@ input, select, textarea {
 				background-color: #e8edec;
 			}
 
+				#main > section.four .banner {
+					background-color: #f00;
+					background-size: contain;
+					background-repeat: no-repeat;
+					background-position: center;
+					background-origin: content-box;
+					/*padding-top: 33.33%;*/
+					width: 100%;
+					height: 66.66%;
+					background-image: url("../../images/dragon\ twitter\ banner\ 1500x500.png"); /* twitter banner 1500x500.png");*/
+					margin: 5px;
+					text-align: left;
+				}
+
+				#main > section.four .banner > img {
+					height: 20%;
+					width: 20%;
+					margin: 5% 15%;
+					border-radius: 100%;
+					border-width: 6px;
+					border-color: #000000;
+					border-style: solid;
+				}
+
             #main > .bg {
                 background-color: #808080;
                 /*
                 opacity: 0.3;
                 filter: alpha(opacity = 75);
                 */
-            }
+			}
+			
 
 /* Wide */
 
@@ -2386,6 +2394,10 @@ input, select, textarea {
 			#logo .image {
 				position: relative;
 				margin: 0 0 0.5em 0;
+			}
+
+			#logo h1 {
+				font-size: 0.6em;
 			}
 
 			#nav ul li a {
