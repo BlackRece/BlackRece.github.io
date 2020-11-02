@@ -196,6 +196,7 @@ input, select, textarea {
 		a:hover {
 			color: #E27689;
 			border-bottom-color: rgba(255, 255, 255, 0);
+            
 		}
 
 	sub {
@@ -2009,12 +2010,24 @@ input, select, textarea {
 		margin-bottom: 40px;
 	}
 
+        .item:hover {
+            background: rgb(158,226,230);
+        }
+
 		.item header {
 			background: #fff;
 			margin: 0;
 			padding: 1em 0 1em 0;
 			font-size: 0.8em;
 		}
+
+        .item:hover header {
+            background: rgb(158,226,230);
+        }
+
+            .item:hover header h3 {
+                background: rgb(158,226,230);
+            }
 
 			.item header h3 {
 				font-size: 1em;
