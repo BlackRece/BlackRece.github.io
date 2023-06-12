@@ -1961,6 +1961,29 @@ input, select, textarea {
 			background: #eee;
 		}
 
+	.split-table {
+		display: flex;
+		align-items: flex-start;
+		justify-content: center;
+	}
+	
+	.split-table table {
+		margin: 0 auto;
+		width: 40%;
+		text-align: center;
+	}
+	
+	.split-table th {
+		text-align: center;
+		border-radius: 15px;
+	}
+
+	.split-table:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+
 /* Button */
 
 	input[type="button"],
