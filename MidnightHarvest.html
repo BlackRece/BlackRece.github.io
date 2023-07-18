@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <link rel="stylesheet" href="https://blackrece.github.io/assets/css/main.css" />
 
+  <script src="assets/js/fallbackImage.js"></script>
 
 </head>
 <body><!--body> class="is-preload"-->
@@ -129,13 +130,11 @@
           <article class="item">
 
             <section>
-              <img src="images/Midnight%20Harvest%20poster.png" alt="Midnight Harvest using Roche Engine" class="image" width="640" height="480"/>
-              <!--video width="640" height="480" controls>
-                <source src="media/9-Byte-Warriors%20-%20Studio%20Sim%20-%20Promo.mp4" type="video/mp4">
-                <img src="images/Midnight%20Harvest%20poster.png" alt="Midnight Harvest using Roche Engine" title="Sorry. Video is not supported by your browser." />
-              </video-->
+              <!-- Embed YouTube video, display image if video is unavailable for any reason -->
+                <!--img id="fallbackImage" class="image fallback" src="images/Midnight%20Harvest%20poster.png" alt="Midnight Harvest using Roche Engine" width="640" height="480"/-->
+                <iframe width="640" height="480" src="https://www.youtube.com/embed/8JeiZlbCrcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                </iframe>
             </section>
-
 
           </article>
         </div>
