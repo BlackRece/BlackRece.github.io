@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <title>BlackRece's Webfolio - @ViewData["Title"]</title>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="~/css/main.css" asp-append-version="true" />
+
+    <!-- Scripts -->
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/jquery.scrolly.min.js"></script>
+    <script src="~/js/jquery.scrollex.min.js"></script>
+    <script src="~/js/browser.min.js"></script>
+    <script src="~/js/breakpoints.min.js"></script>
+    <script src="~/js/util.js" asp-append-version="true"></script>
+    <script src="~/js/main.js" asp-append-version="true"></script>
+    <script src="~/js/chart.min.js"></script>
+    <script src="~/js/skillschart.js" asp-append-version="true"></script>
+</head>
+
+<body class="is-preload">
+
+<!-- Header -->
+<div id="header">
+    
+    <div class="top">
+        
+        <!-- Logo -->
+        <div id="logo">
+            <span class="image avatar48">
+                <img src="~/images/Rece image.jpg" alt="picture of Rece Thompson-Hamilton"/>
+            </span>
+            <h1 id="title">Rece <br />Thompson-Hamilton</h1>
+            <p>Games Developer</p>
+        </div>
+        
+        <!-- Nav -->
+        <nav id="nav">
+            <ul>
+                <li>
+                    <a href="#top" id="top-link"><span class="icon fa-home">Intro</span></a>
+                </li>
+                <li>
+                    <a href="#skills" id="skills-link"><span class="icon fa-bar-chart">Skills</span></a>
+                </li>
+                <li>
+                    <a href="#portfolio" id="portfolio-link"><span class="icon fa-th">Portfolio</span></a>
+                </li>
+                <li>
+                    <a href="~/CV - MLT - Games Developer 4.pdf" id="resume-link" target="_blank"><span class="icon fa-download">Resume</span></a>
+                </li>
+                <li>
+                    <a href="#about" id="about-link"><span class="icon fa-user">About Me</span></a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    
+    <div class="bottom">
+    
+        <!-- Social Icons -->
+        <ul class="icons">
+            <li>
+                <a href="https://www.linkedin.com/in/blackrece" target="_blank" class="icon fa-linkedin"><span class="label">BlackRece on LinkedIn</span></a>
+            </li>
+            <li>
+                <a href="https://twitter.com/BlackRece" target="_blank" class="icon fa-twitter"><span class="label">@@BlackRece on Twitter</span></a>
+            </li>
+            <li>
+                <a href="https://github.com/BlackRece" target="_blank" class="icon fa-github"><span class="label">BlackRece on GitHub</span></a>
+            </li>
+            <li>
+                <a href="mailto:blackrece@gmail.com" class="icon fa-envelope"><span class="label">blackrece@gmail.com</span></a>
+            </li>
+        </ul>
+    </div>
+    <!-- !bottom -->
+    
+</div>
+
+<!-- Main -->
+@RenderBody()
+<!-- !Main -->
+
+<!-- Footer -->
+<div id="footer">
+    
+    <!-- Copyright -->
+    <ul class="copyright">
+        <li>&copy; blackrece.github.io 2018-2023. All rights reserved.</li>
+    </ul>
+    
+</div>  
+<!-- !Footer -->
+
+</body>
+</html>
