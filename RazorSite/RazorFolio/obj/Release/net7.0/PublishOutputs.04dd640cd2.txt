@@ -1,0 +1,7 @@
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\folio\RazorFolio.exe
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\folio\appsettings.Development.json
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\folio\appsettings.json
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\folio\RazorFolio.dll
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\folio\RazorFolio.deps.json
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\folio\RazorFolio.runtimeconfig.json
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\folio\RazorFolio.pdb
