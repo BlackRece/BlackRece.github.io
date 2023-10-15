@@ -28,3 +28,8 @@ D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\obj\Release\net7.0\refint\Raz
 D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\obj\Release\net7.0\RazorFolio.pdb
 D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\obj\Release\net7.0\RazorFolio.genruntimeconfig.cache
 D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\obj\Release\net7.0\ref\RazorFolio.dll
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\bin\Release\net7.0\folio\web.config
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\bin\Release\net7.0\folio\appsettings.Development.json
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\bin\Release\net7.0\folio\appsettings.json
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\bin\Release\net7.0\folio\RazorFolio.deps.json
+D:\GitHub\BlackRece.github.io\RazorSite\RazorFolio\bin\Release\net7.0\folio\RazorFolio.runtimeconfig.json
