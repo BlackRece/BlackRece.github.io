@@ -68,7 +68,7 @@
       <workItem from="1739306035638" duration="646000" />
       <workItem from="1740511607017" duration="42000" />
       <workItem from="1742542108784" duration="1881000" />
-      <workItem from="1742658292581" duration="4952000" />
+      <workItem from="1742658292581" duration="5067000" />
     </task>
     <task id="LOCAL-00001" summary="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025">
       <option name="closed" value="true" />
@@ -102,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742743790165</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025">
+      <option name="closed" value="true" />
+      <created>1742745897446</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742745897446</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025">
+      <option name="closed" value="true" />
+      <created>1742745988914</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742745988914</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
