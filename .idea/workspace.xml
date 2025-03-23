@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f95277c-af3a-438f-a010-2d57475c048b" name="Changes" comment="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025" />
+    <list default="true" id="8f95277c-af3a-438f-a010-2d57475c048b" name="Changes" comment="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025&#10;renaming _next to next">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +70,7 @@
       <workItem from="1739306035638" duration="646000" />
       <workItem from="1740511607017" duration="42000" />
       <workItem from="1742542108784" duration="1881000" />
-      <workItem from="1742658292581" duration="5067000" />
+      <workItem from="1742658292581" duration="5949000" />
     </task>
     <task id="LOCAL-00001" summary="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025">
       <option name="closed" value="true" />
@@ -118,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742745988914</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025&#10;renaming _next to next">
+      <option name="closed" value="true" />
+      <created>1742746566277</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742746566277</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025" />
+    <MESSAGE value="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025&#10;renaming _next to next" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025 update &#10;swapped out old HTML site for react site&#10;Webfolio-old-2018 -&gt; webfolio-2025&#10;renaming _next to next" />
   </component>
 </project>
