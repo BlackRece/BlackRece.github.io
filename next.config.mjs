@@ -12,7 +12,7 @@ const nextConfig = {
   },
   images: { unoptimized: true },
   // Add this line to enable static exporting during next build
-  //output: 'export',
+  output: 'export',
   basePath: '',
   //assetPrefix: './next/'
 }
