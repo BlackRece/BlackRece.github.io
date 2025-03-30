@@ -22,7 +22,7 @@ const projects = [
   {
     name: 'JunkSpace',
     description: 'Unity 3D reimagining of a mining mechanic from a 2D mining game.',
-    link: { href: 'https://github.com/JunkSpace', label: 'View repository' },
+    link: { href: 'https://github.com/BlackRece/JunkSpace', label: 'View repository' },
     logo: <SiUnity className="h-8 w-8 text-blue-500 dark:text-blue-400" />,
   },
   {
