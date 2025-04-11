@@ -130,7 +130,7 @@ function Resume() {
                 ))}
             </ol>
             <a
-                href="/CV - MLT - Games Developer 6.pdf"
+                href="/CV - MLT - Games Developer 7.pdf"
                 download
                 className="group mt-6 flex w-full items-center justify-center gap-2 rounded-md bg-zinc-50 px-3 py-2 text-sm font-medium text-zinc-900 shadow-lg shadow-zinc-800/5 transition hover:bg-zinc-100 dark:bg-zinc-800 dark:text-zinc-100 dark:hover:bg-zinc-700"
             >
